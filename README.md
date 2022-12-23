@@ -11,7 +11,7 @@
 <h2 align="center">🖥️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?label=Next.js&logo=next.js&style=for-the-badge" alt="next-js" />
+  <img src="https://img.shields.io/badge/Next.Js-3bc7bd?logo=next.js&style=for-the-badge&logoColor=black" alt="next-js" />
   <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="jwt" />
@@ -21,8 +21,8 @@
 
 
 
-It’s Group project where we've used MERN stack to make the TripBook.com with our creativity along with frontend and backend integration
-its Fully Responsive booking web application that allows you to book hotels,flights and car rental. In this website you can filter hotels by price ,rating and reviews.
+It’s a group project where we've used Next.JS to make the TripBook.com with our creativity along with frontend and backend integration
+its Fully Responsive booking web application that allows you to book hotels, flights and car rental. In this website you can filter, sort hotels by price, rating and reviews.
 
 
 
@@ -74,7 +74,7 @@ its Fully Responsive booking web application that allows you to book hotels,flig
 
 ## Getting Started
 
-This project was built using NextJS, Chakra UI, HTML, CSS, JavaScript, Rest API . It is an e-commerce web application and for running on your local environment you should follow these guidelines.
+This project was built using NextJS, Chakra UI, MongoDB. It is an e-commerce web application and for running on your local environment you should follow these guidelines.
 
 
 
@@ -110,7 +110,7 @@ Your app is ready to be deployed!
 ### Tools used on this project
 
 - Visual Studio Code
-- Vite-JS template
+- MongoDB Atlas (Online hosting of data)
 
 <br />
 
